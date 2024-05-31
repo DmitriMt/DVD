@@ -2,3 +2,6 @@ pandas
 pyreadstat
 scikit-learn
 statsmodels
+openpyxl
+jupyter
+rpy2
